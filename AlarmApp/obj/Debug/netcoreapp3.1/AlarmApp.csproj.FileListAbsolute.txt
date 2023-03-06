@@ -1,0 +1,16 @@
+C:\Users\willi\ws-vs2019\AlarmApp\AlarmApp\bin\Debug\netcoreapp3.1\AlarmApp.exe
+C:\Users\willi\ws-vs2019\AlarmApp\AlarmApp\bin\Debug\netcoreapp3.1\AlarmApp.deps.json
+C:\Users\willi\ws-vs2019\AlarmApp\AlarmApp\bin\Debug\netcoreapp3.1\AlarmApp.runtimeconfig.json
+C:\Users\willi\ws-vs2019\AlarmApp\AlarmApp\bin\Debug\netcoreapp3.1\AlarmApp.runtimeconfig.dev.json
+C:\Users\willi\ws-vs2019\AlarmApp\AlarmApp\bin\Debug\netcoreapp3.1\AlarmApp.dll
+C:\Users\willi\ws-vs2019\AlarmApp\AlarmApp\bin\Debug\netcoreapp3.1\AlarmApp.pdb
+C:\Users\willi\ws-vs2019\AlarmApp\AlarmApp\obj\Debug\netcoreapp3.1\AlarmApp.csprojAssemblyReference.cache
+C:\Users\willi\ws-vs2019\AlarmApp\AlarmApp\obj\Debug\netcoreapp3.1\AlarmApp.Form1.resources
+C:\Users\willi\ws-vs2019\AlarmApp\AlarmApp\obj\Debug\netcoreapp3.1\AlarmApp.csproj.GenerateResource.cache
+C:\Users\willi\ws-vs2019\AlarmApp\AlarmApp\obj\Debug\netcoreapp3.1\AlarmApp.AssemblyInfoInputs.cache
+C:\Users\willi\ws-vs2019\AlarmApp\AlarmApp\obj\Debug\netcoreapp3.1\AlarmApp.AssemblyInfo.cs
+C:\Users\willi\ws-vs2019\AlarmApp\AlarmApp\obj\Debug\netcoreapp3.1\AlarmApp.csproj.CoreCompileInputs.cache
+C:\Users\willi\ws-vs2019\AlarmApp\AlarmApp\obj\Debug\netcoreapp3.1\AlarmApp.dll
+C:\Users\willi\ws-vs2019\AlarmApp\AlarmApp\obj\Debug\netcoreapp3.1\AlarmApp.pdb
+C:\Users\willi\ws-vs2019\AlarmApp\AlarmApp\obj\Debug\netcoreapp3.1\AlarmApp.genruntimeconfig.cache
+C:\Users\willi\ws-vs2019\AlarmApp\AlarmApp\obj\Debug\netcoreapp3.1\AlarmApp.Properties.Resources.resources
